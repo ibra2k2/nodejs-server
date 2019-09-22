@@ -1,0 +1,21 @@
+{
+  "name": "json-server-heroku",
+  "version": "1.0.0",
+  "description": "Simple json-base database to deploy to heroku",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server",
+    "heroku",
+    "node",
+    "REST",
+    "API"
+  ],
+  "author": "Ibrahim",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
